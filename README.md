@@ -4,8 +4,8 @@ Using Classification of Supervised Learning Telco can predict if their customer 
 
 I haved used 7 algorithm of Classification:
 
-DecisionTreeClassifier
-KNeighborsClassifier
+<br>DecisionTreeClassifier</br>
+<br>KNeighborsClassifier</br>
 RandomForestClassifier
 ExtraTreeClassifier
 LinearDiscriminantAnalysis
